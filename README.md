@@ -1,0 +1,4 @@
+nazwaRepo
+=========
+
+Opis repozytorium.
